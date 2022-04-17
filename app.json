@@ -4,7 +4,7 @@
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/Aarshuchoudhary360/GroupMusicBot",
   "stack": "container",
-  "env": {https://github.com/Aarshuchoudhary360/GroupMusicBot
+  "env": {
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": true
